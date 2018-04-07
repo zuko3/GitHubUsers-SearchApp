@@ -1,2 +1,5 @@
 # GitHubUsers-SearchApp
-This React app is used to search user form GitHub and display heirs details
+This React app is used to search user form GitHub and display theirs details
+
+![ScreenShot](https://github.com/zuko3/GitHubUsers-SearchApp/blob/master/Untitled.png)
+
