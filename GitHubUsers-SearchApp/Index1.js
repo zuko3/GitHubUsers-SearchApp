@@ -169,6 +169,11 @@ function DetailUser(props){
                         <h3>{props.obj.login}</h3>
                     </div>
               </div>
+              <div className="row marginrow text-center">
+                    <div className="col-sm">
+                        <a href={props.obj.html_url}>GitHub Link</a>
+                    </div>
+              </div>
           </div>
           :<h3>Select a user to see</h3>} 
       </div>   
@@ -176,4 +181,3 @@ function DetailUser(props){
 }
 
 render(<App />, document.getElementById('root'));
-
