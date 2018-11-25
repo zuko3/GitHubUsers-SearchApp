@@ -1,0 +1,3 @@
+@material-ui/core
+@material-ui/icons
+react-transition-group
