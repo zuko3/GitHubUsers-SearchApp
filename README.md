@@ -1,6 +1,6 @@
 # React Examples project
 1. GitHubUsers-SearchApp:<br/>
-This React app is used to search user form GitHub and display theirs details
+This React app is used to search user form GitHub and display theirs details<br/>
 App Url:  https://react-3tcngc.stackblitz.io/
 
 ![ScreenShot](https://github.com/zuko3/GitHubUsers-SearchApp/blob/master/Untitled.png)
