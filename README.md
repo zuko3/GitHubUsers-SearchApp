@@ -14,6 +14,5 @@ App Url:  https://react-p4wgp6.stackblitz.io/
 3. CART APP: Simple React based cart application. <br/>
 4. MultiStepFormValidation: Way to implement multistep form in react<br/>
 5. Parent Child communications.<br/>
-6. TestCase In React : Async calls, Mocks, Component testing.<br/>
-7. TODO: Simple toDO application.<br/>
-8. React-Recompose: An example of using statfull functionalites in stateless Componnet.
+6. TODO: Simple toDO application.<br/>
+7. React-Recompose: An example of using statfull functionalites in stateless Componnet.
